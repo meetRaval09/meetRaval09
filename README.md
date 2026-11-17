@@ -11,7 +11,7 @@ BCA student (SCET, Surat) building developer tools, desktop apps and embedded ha
 ### 🚀 Projects
 - **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python and TypeScript projects. It found real bugs in Quarkus.
   `Python` `JavaScript` `TypeScript` `Docker` `MCP`
-  - **[Parking Orchestrator](PARKING_LINK)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
+- **[Parking Orchestrator](PARKING_LINK)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
 - **[Pixel Tunes](PIXEL_TUNES_LINK)**: retro, pixel-style desktop music player widget inspired by early-2000s players, with Spotify playback and pixel cover-art animations.
   `Electron` `JavaScript` `Spotify API`
