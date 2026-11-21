@@ -2,7 +2,7 @@
 
 BCA student at SCET, Surat. I build developer tools, desktop apps and embedded hardware, and I contribute bug fixes to open source.
 
-**8 merged pull requests in Red Hat open source (Quarkus and Keycloak). 5 of those bugs were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
+**9 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 6 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
 
 ### 🔧 Open-source contributions
 
@@ -24,9 +24,15 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 |---|---|---|
 | [#55325](https://github.com/keycloak/keycloak/pull/55325) | Three broken links in the contributor docs | Arachnid |
 
+**[ASML Labs](https://github.com/ASML-Labs)** (ASML's open-source projects): 1 merged
+
+| PR | Fix | Found by |
+|---|---|---|
+| [dagster-delta #67](https://github.com/ASML-Labs/dagster-delta/pull/67) | Four typos in the READMEs and a test comment | Arachnid |
+
 ### 🚀 Projects
 
-- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 5 real bugs that are now fixed in Quarkus and Keycloak.
+- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 6 real problems that are now fixed in Quarkus, Keycloak and ASML Labs.
   `Python` `JavaScript` `TypeScript` `C` `Docker` `MCP`
 - **[Parking Orchestrator](PARKING_LINK)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
