@@ -2,11 +2,11 @@
 
 BCA student at SCET, Surat. I build developer tools, desktop apps and embedded hardware, and I contribute bug fixes to open source.
 
-**9 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 6 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
+**10 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 6 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
 
 ### 🔧 Open-source contributions
 
-**[Quarkus](https://github.com/quarkusio/quarkus)** (Red Hat's Java framework): 7 merged
+**[Quarkus](https://github.com/quarkusio/quarkus)** (Red Hat's Java framework): 8 merged
 
 | PR | Fix | Found by |
 |---|---|---|
@@ -17,6 +17,7 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 | [#58531](https://github.com/quarkusio/quarkus/pull/58531) | Agroal binary download links had the same memory leak | Arachnid |
 | [#58570](https://github.com/quarkusio/quarkus/pull/58570) | Typo in the WebAuthn register error message (Quarkus 4.1) | me |
 | [#58597](https://github.com/quarkusio/quarkus/pull/58597) | Duplicate "users" list silently ignored in the oidc-mtls test realm (Quarkus 4.1) | Arachnid |
+| [#58600](https://github.com/quarkusio/quarkus/pull/58600) | Typo in the WebAuthn security guide (Quarkus 4.1) | me |
 
 **[Keycloak](https://github.com/keycloak/keycloak)** (Red Hat's identity and access server): 1 merged
 
