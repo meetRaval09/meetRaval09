@@ -2,9 +2,15 @@
 
 BCA student at SCET, Surat. I build developer tools, desktop apps and embedded hardware, and I contribute bug fixes to open source.
 
-**12 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 8 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
+**13 merged pull requests in open source at Google (Angular), Red Hat (Quarkus, Keycloak) and ASML. 9 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
 
 ### 🔧 Open-source contributions
+
+**[Angular](https://github.com/angular/angular)** (Google's web framework): 1 merged
+
+| PR | Fix | Found by |
+|---|---|---|
+| [#72149](https://github.com/angular/angular/pull/72149) | Project zip download on angular.dev kept its memory forever (object URL never revoked), also released in 22.3.x | Arachnid |
 
 **[Quarkus](https://github.com/quarkusio/quarkus)** (Red Hat's Java framework): 10 merged
 
@@ -35,11 +41,11 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 
 ### 🚀 Projects
 
-- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 8 real problems that are now fixed in Quarkus, Keycloak and ASML Labs.
+- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 9 real problems that are now fixed in Angular, Quarkus, Keycloak and ASML Labs.
   `Python` `JavaScript` `TypeScript` `C` `Docker` `MCP`
 - **[Parking Orchestrator](https://github.com/meetRaval09/Parking-Orchestrator)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
 - **[Pixel Tunes](https://github.com/meetRaval09/music_player_2003)**: a retro, pixel-style desktop music player widget inspired by early-2000s players, with Spotify playback and pixel cover-art animations.
   `Electron` `JavaScript` `Spotify API`
-- **[Math Model Of a* Algorithm](https://github.com/meetRaval09/Mathematical-Modelling-Of-A-Star-Algorithm-Under-Heuristic-Admissibility-Of-Node-Expansion)** *(in progress)*: a small ESP32 desk companion with an OLED screen that shows the time and the song playing in Pixel Tunes, with moods.
-  `ESP32` `C++` `OLED`
+- **[Mathematical Modelling of A*](https://github.com/meetRaval09/Mathematical-Modelling-Of-A-Star-Algorithm-Under-Heuristic-Admissibility-Of-Node-Expansion)** *(in progress)*: a research project that builds a mathematical model of how the A* path-finding algorithm expands nodes when its heuristic (its "guess" of the distance left) is admissible, meaning it never overestimates.
+  `Algorithms` `Research` `Mathematics`
