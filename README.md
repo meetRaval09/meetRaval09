@@ -37,9 +37,9 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 
 - **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 8 real problems that are now fixed in Quarkus, Keycloak and ASML Labs.
   `Python` `JavaScript` `TypeScript` `C` `Docker` `MCP`
-- **[Parking Orchestrator](PARKING_LINK)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
+- **[Parking Orchestrator](https://github.com/meetRaval09/Parking-Orchestrator)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
-- **[Pixel Tunes](PIXEL_TUNES_LINK)**: a retro, pixel-style desktop music player widget inspired by early-2000s players, with Spotify playback and pixel cover-art animations.
+- **[Pixel Tunes](https://github.com/meetRaval09/music_player_2003)**: a retro, pixel-style desktop music player widget inspired by early-2000s players, with Spotify playback and pixel cover-art animations.
   `Electron` `JavaScript` `Spotify API`
-- **[Desk Buddy](DESK_BUDDY_LINK)** *(in progress)*: a small ESP32 desk companion with an OLED screen that shows the time and the song playing in Pixel Tunes, with moods.
+- **[Math Model Of a* Algorithm](https://github.com/meetRaval09/Mathematical-Modelling-Of-A-Star-Algorithm-Under-Heuristic-Admissibility-Of-Node-Expansion)** *(in progress)*: a small ESP32 desk companion with an OLED screen that shows the time and the song playing in Pixel Tunes, with moods.
   `ESP32` `C++` `OLED`
