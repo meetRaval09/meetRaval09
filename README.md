@@ -2,11 +2,11 @@
 
 BCA student at SCET, Surat. I build developer tools, desktop apps and embedded hardware, and I contribute bug fixes to open source.
 
-**10 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 6 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
+**12 merged pull requests in open source at Red Hat (Quarkus, Keycloak) and ASML. 8 of those were found by [Arachnid](https://github.com/meetRaval09/arachnid), the bug finder I build.**
 
 ### 🔧 Open-source contributions
 
-**[Quarkus](https://github.com/quarkusio/quarkus)** (Red Hat's Java framework): 8 merged
+**[Quarkus](https://github.com/quarkusio/quarkus)** (Red Hat's Java framework): 10 merged
 
 | PR | Fix | Found by |
 |---|---|---|
@@ -18,6 +18,8 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 | [#58570](https://github.com/quarkusio/quarkus/pull/58570) | Typo in the WebAuthn register error message (Quarkus 4.1) | me |
 | [#58597](https://github.com/quarkusio/quarkus/pull/58597) | Duplicate "users" list silently ignored in the oidc-mtls test realm (Quarkus 4.1) | Arachnid |
 | [#58600](https://github.com/quarkusio/quarkus/pull/58600) | Typo in the WebAuthn security guide (Quarkus 4.1) | me |
+| [#58609](https://github.com/quarkusio/quarkus/pull/58609) | Five typos in code comments and READMEs (Quarkus 4.1) | Arachnid |
+| [#58610](https://github.com/quarkusio/quarkus/pull/58610) | Two CSS rules in the docs stylesheet that had no effect (Quarkus 4.1) | Arachnid |
 
 **[Keycloak](https://github.com/keycloak/keycloak)** (Red Hat's identity and access server): 1 merged
 
@@ -33,7 +35,7 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 
 ### 🚀 Projects
 
-- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 6 real problems that are now fixed in Quarkus, Keycloak and ASML Labs.
+- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 8 real problems that are now fixed in Quarkus, Keycloak and ASML Labs.
   `Python` `JavaScript` `TypeScript` `C` `Docker` `MCP`
 - **[Parking Orchestrator](PARKING_LINK)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
