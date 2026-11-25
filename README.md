@@ -39,9 +39,15 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 |---|---|---|
 | [dagster-delta #67](https://github.com/ASML-Labs/dagster-delta/pull/67) | Four typos in the READMEs and a test comment | Arachnid |
 
+**Issues reported** (found by Arachnid, fixed by the maintainers)
+
+| Issue | Problem | Fixed in |
+|---|---|---|
+| [Quarkus #58558](https://github.com/quarkusio/quarkus/issues/58558) | Qute debugger README showed a broken image (`images/Hover.png` did not exist) | [#58637](https://github.com/quarkusio/quarkus/pull/58637) |
+
 ### 🚀 Projects
 
-- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 9 real problems that are now fixed in Angular, Quarkus, Keycloak and ASML Labs.
+- **[Arachnid](https://github.com/meetRaval09/arachnid)**: open-source bug finder and safe auto-fixer for web, Python, TypeScript and C projects. It found 10 real problems that are now fixed in Angular, Quarkus, Keycloak and ASML Labs.
   `Python` `JavaScript` `TypeScript` `C` `Docker` `MCP`
 - **[Parking Orchestrator](https://github.com/meetRaval09/Parking-Orchestrator)** *(in progress)*: a realistic miniature smart parking system with an automatic boom barrier, controlled from a laptop.
   `C++` `Python` `Embedded` `Tinkercad`
