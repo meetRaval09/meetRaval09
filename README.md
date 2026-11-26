@@ -25,7 +25,7 @@ BCA student at SCET, Surat. I build developer tools, desktop apps and embedded h
 | [#58597](https://github.com/quarkusio/quarkus/pull/58597) | Duplicate "users" list silently ignored in the oidc-mtls test realm (Quarkus 4.1) | Arachnid |
 | [#58600](https://github.com/quarkusio/quarkus/pull/58600) | Typo in the WebAuthn security guide (Quarkus 4.1) | me |
 | [#58609](https://github.com/quarkusio/quarkus/pull/58609) | Five typos in code comments and READMEs (Quarkus 4.1) | Arachnid |
-| [#58610](https://github.com/quarkusio/quarkus/pull/58610) | Two CSS rules in the docs stylesheet that had no effect (Quarkus 4.1) | Arachnid |
+| [#58610](https://github.com/quarkusio/quarkus/pull/58610) | Two CSS rules in the docs stylesheet that had n effect (Quarkus 4.1) | Arachnid |
 
 **[Keycloak](https://github.com/keycloak/keycloak)** (Red Hat's identity and access server): 1 merged
 
